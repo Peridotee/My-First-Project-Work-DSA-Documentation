@@ -14,7 +14,7 @@ The primary source of data used gere sale.csv and this is an open source data th
        2. Data Munching
         
 - SQL Server (For Quering and Analysis)
-- Power BI [Download Here](For creating a reporthttps://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- Power BI [Download Here](For creating a report)https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - Ms Power Point (For Presentation)
 
   
@@ -31,4 +31,9 @@ The primary source of data used gere sale.csv and this is an open source data th
   -What are the products on peak sales
 
   ### Data ANnalysis
-  This is wherewe group some basic lines of code or queries or even some of the DAX 
+  This is wherewe group some basic lines of code or queries or even some of the DAX expressions used during your analysis
+
+  ````SQL
+   SELECT A,B,C
+   WHERE A> 15
+  ````
