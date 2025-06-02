@@ -37,3 +37,5 @@ The primary source of data used gere sale.csv and this is an open source data th
    SELECT A,B,C
    WHERE A> 15
   ````
+  ### Analysis
+  click drag drop
