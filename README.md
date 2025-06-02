@@ -39,3 +39,12 @@ The primary source of data used gere sale.csv and this is an open source data th
   ````
   ### Analysis
   click drag drop
+  ![pie chart](https://github.com/user-attachments/assets/2a84dfb8-0eb9-4683-b125-86bcce6d60e9)
+
+![bar chart](https://github.com/user-attachments/assets/b5330dae-e6d9-41e7-acad-5bc5f1497f67)
+
+*italics*
+
+**bold**
+
+
